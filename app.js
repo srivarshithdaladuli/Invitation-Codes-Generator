@@ -9,7 +9,7 @@ const db = mysql.createConnection({
   host: 'localhost',
   user: 'root',
   password: 'Root',
-  database: 'brandlogs_dev'
+  database: ' '
 });
 
 db.connect((err) => {
