@@ -36,7 +36,7 @@ Before you begin, ensure you have met the following requirements:
     npm install
     ```
 
-4. Configure your MySQL database connection by editing the `config.js` file.
+4. Configure your MySQL database connection by editing the `app.js` file.
 
 5. Run the database migration to create the necessary tables:
 
@@ -44,9 +44,20 @@ Before you begin, ensure you have met the following requirements:
     npm run migrate
     ```
 
+6. Run the following command to start the development server:
+
+    ```bash
+    node app.js
+    ```  
+
 ## Configuration
 
-You can customize the MySQL database connection settings in the `config.js` file.
+You can customize the MySQL database connection settings in the `app.js` file.
+
+- host: 'localhost'
+- user: 'root'
+- password: 'Root'
+- database: ' '  
 
 ## Contributing
 
