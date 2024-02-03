@@ -21,13 +21,13 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/invitation-codes-generator.git
+    git clone https://github.com/srivarshithdaladuli/Invitation-Codes-Generator.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd invitation-codes-generator
+    cd Invitation-Codes-Generator
     ```
 
 3. Install dependencies:
