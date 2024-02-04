@@ -65,7 +65,7 @@ Feel free to contribute to this project by opening issues or pull requests.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/srivarshithdaladuli/Invitation-Codes-Generator/blob/main/READM) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/srivarshithdaladuli/Invitation-Codes-Generator/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
